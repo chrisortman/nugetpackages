@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>putty</id>
+    <title>putty</title>
+    <version>0.60</version>
+    <authors>Simon Tatham, Owen Dunn,Ben Harris,Jacob Nevins</authors>
+    <owners>Chris Ortman</owners>
+    <summary>putty </summary>
+    <description>putty Please install with chocolatey (http://nuget.org/List/Packages/chocolatey).</description>
+    <projectUrl>http://www.chiark.greenend.org.uk/~sgtatham/putty/</projectUrl>
+    <tags>putty  chocolatey</tags>
+    <licenseUrl>http://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl>32x32.png</iconUrl>-->
+  </metadata>
+</package>
